@@ -1,8 +1,8 @@
 #!/bin/sh
 
-# UUID="00277430-85b5-46e2-a6c9-4fe3da538187"
-# APP_NAME="lyz7805-v2ray"
-REGION="hkg"
+UUID="ae927376-4f4b-4773-8981-5afc644842f9"
+APP_NAME="silent-hill-v2ray-loophe"
+REGION="nrt"
 
 if ! command -v flyctl >/dev/null 2>&1; then
     printf '\e[33mCould not resolve command - flyctl. So, install flyctl first.\n\e[0m'
