@@ -1,7 +1,7 @@
 #!/bin/sh
 
-UUID="ae927376-4f4b-4773-8981-5afc644842f9"
-APP_NAME="silent-hill-v2ray-loophe"
+#UUID="ae927376-4f4b-4773-8981-5afc644842f8"
+#APP_NAME="silent-hill-v2ray-loophe"
 REGION="nrt"
 
 if ! command -v flyctl >/dev/null 2>&1; then
